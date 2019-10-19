@@ -39,5 +39,3 @@ https://neo4j.com/developer/guide-cypher-basics/#_solve_the_six_degrees_question
 ![6 degrees of Kevin Bacon](https://maxdemarzidotcom.files.wordpress.com/2012/01/kevin-bacon-six-degrees-590x350.jpg "6 degrees of Kevin Bacon")
 
 Thanks for reading so far!
-"# neo4j" 
-"# neo4j" 
